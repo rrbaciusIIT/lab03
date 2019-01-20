@@ -18,8 +18,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            <state relative-caret-position="422">
+              <caret line="73" column="138" selection-start-line="73" selection-start-column="138" selection-end-line="73" selection-end-column="138" />
+              <folding>
+                <element signature="e#74#91#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,19 +96,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548005139830</updated>
-      <workItem from="1548005140978" duration="525000" />
+      <workItem from="1548005140978" duration="775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="525000" />
+    <option name="totallyTimeSpent" value="775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15574348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -129,8 +132,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        <state relative-caret-position="422">
+          <caret line="73" column="138" selection-start-line="73" selection-start-column="138" selection-end-line="73" selection-end-column="138" />
+          <folding>
+            <element signature="e#74#91#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
